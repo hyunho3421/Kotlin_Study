@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyApplication</string>
+    <string name="hello_world">헬로월드</string>
+    <string name="clickButtonString">클릭</string>
 </resources>
